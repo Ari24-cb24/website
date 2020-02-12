@@ -64,6 +64,10 @@ contributions:
       url: "https://github.com/Thithan77"
     url: "https://codepen.io/Babouinduweb/full/xxGbyVg"
     source: "https://codepen.io/Babouinduweb/pen/xxGbyVg"
+  - title: "Hilbert Curve in Python Pygame"
+    author:
+      name: "Ari24"
+    source: "https://github.com/Ari24-cb24/Python-Speedcoding/tree/master/Hilbert%20Curve"
   - title: "Editable Space-filling Curve"
     author:
       name: "Simon Tiger Houben"
